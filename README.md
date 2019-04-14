@@ -1,5 +1,6 @@
 # Raspberry-Pi-Publish-Sensor-Data-To-AWS
 CSN-252 ESD-2
+******************************************
 This project is based on Raspberry Pi. In this project we are publishing Temperature and
 Humidity Sensor Data to AWS - IoT using Raspberry Pi. We are viewing the data sent to
 AWS through a MQTT client app. The Temperature and Humidity is also displayed on a
